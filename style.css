@@ -1,0 +1,22 @@
+body{
+    background-color: palevioletred;
+    margin: 75px;
+    padding-bottom: 50px;
+    padding-left: 400px;
+}
+.head{
+    padding-right: 425px;
+    text-align: center;
+}
+.form{
+    width: 180px;
+    background-color: rgb(185, 127, 255);
+    border: 2px rgb(46, 139, 102);
+    padding-inline:  30px;
+    padding-bottom: 20px;
+}
+input[type="Submit"]{
+    color: rgb(131, 255, 127);
+    background-color: green;
+    width: 168px;
+}
